@@ -1,4 +1,4 @@
-# MS Teams Clone - Real-Time Chat Application
+# Real-Time Chat Application
 
 This project is a real-time chat application that replicates some of the core functionalities of Microsoft Teams. It allows users to create or join chat rooms and communicate with each other in real-time.
 
